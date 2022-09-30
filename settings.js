@@ -101,7 +101,6 @@ global.mess = {
     botAdmin: '✉️✏️ _Bot Must Be Admin First!_',
     owner: '✉️✏️ _This Feature Is Only For Owner!_',
     group: '✉️✏️ _Feature Used Only For Groups!_',
-    ഗ്രൂപ്പ്‌ : auto admin whatsapp group
     private: '✉️✏️ _Features Used Only For Private Chat!_',
     bot: '✉️✏️ _This Feature Is Only For Bot_',
     wait: '✉️✏️ _Processing Please Wait..._',
